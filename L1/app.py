@@ -1,0 +1,1 @@
+print("filega yozishni o'rganamzi!")
